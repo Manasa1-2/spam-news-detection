@@ -2,5 +2,5 @@
 
 A Machine learning model is built to detect fake and true news and deployed using flask app
 
-To craete virtual environment in VS Code, use this command:
+To create virtual environment in VS Code, use this command:
 python -m venv env
